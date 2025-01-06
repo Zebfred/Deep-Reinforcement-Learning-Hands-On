@@ -1,5 +1,5 @@
-import gym
-
+#import gym
+import gymnasium as gym
 import random
 
 

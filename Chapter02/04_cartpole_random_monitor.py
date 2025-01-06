@@ -1,4 +1,6 @@
-import gym
+#import gym
+#from gym.wrappers.monitoring.video_recorder import VideoRecorder
+import gymnasium as gym
 from gym.wrappers.monitoring.video_recorder import VideoRecorder
 
 if __name__ == "__main__":
